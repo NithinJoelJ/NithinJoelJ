@@ -11,7 +11,7 @@ I'm Nithin Joel J, a 20-year-old passionate software developer and tech enthusia
 - 🌐 I then ventured into Web Development, learning how to craft beautiful and functional websites.  
 - 🤖 Currently, I’m diving into the exciting field of Machine Learning, unraveling the magic of data and AI!
 
-- ![Cyberpunk Developer](https://i.postimg.cc/gk3wKDP7/Leonardo-Phoenix-09-Create-a-vibrant-cyberpunk-scene-featuring-0.jpg)
+![Cyberpunk Developer](https://i.postimg.cc/j5QqGssY/Joel-Pic-cropped-modified.png)
 
 ✨ My Mantra:  
 I believe in the power of curiosity, continuous learning, and turning creative ideas into digital reality. Whether it’s building intuitive applications, solving complex problems, or collaborating on impactful projects, I’m always up for a challenge!  
