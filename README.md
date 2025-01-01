@@ -33,7 +33,7 @@ I believe in the power of curiosity, continuous learning, and turning creative i
 ---
 
 ## 💌 **Let’s Connect!**  
-- 📫 Reach me via email: [your-email@example.com](mailto: nithinjoelj2004@gmail.com)  
+- 📫 Reach me via email:(nithinjoelj2004@gmail.com)  
 - 🌐 Check out my portfolio: [My Portfolio](https://nithinjoel.web.app/)  
 - 📱 Follow me on social media:    
   - [LinkedIn](https://www.linkedin.com/in/nithin-joel-j-453938265/)  
