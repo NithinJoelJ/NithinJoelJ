@@ -6,7 +6,7 @@ Hello there! 👋
 
 I'm Nithin Joel J, a 20-year-old passionate software developer and tech enthusiast on a mission to explore, innovate, and master the latest technologies. 🌟
 
-![Cyberpunk Developer]([https://i.postimg.cc/6qbKXqgg/Joel-Pic-1.png](https://postimg.cc/2bjxL6DJ))
+![Cyberpunk Developer](https://postimg.cc/2bjxL6DJ)
 
 💻 My Journey:  
 - 🚀 It all began in 2020 when I started coding with Python. From mastering the fundamentals to solving real-world problems, I quickly fell in love with the art of coding.  
