@@ -4,7 +4,7 @@
 
 Hello there! 👋  
 
-I'm Nithin Joel J, a 20-year-old passionate software developer and tech enthusiast on a mission to explore, innovate, and master the latest technologies. 🌟
+I'm Nithin Joel J, a 21-year-old passionate software developer and tech enthusiast on a mission to explore, innovate, and master the latest technologies. 🌟
 
 ![Cyberpunk Developer]()
 
